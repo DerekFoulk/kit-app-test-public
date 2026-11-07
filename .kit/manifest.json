@@ -1,0 +1,369 @@
+{
+  "kitRepository": "DerekFoulk/dotnet-agent-kit",
+  "kitVersion": "unreleased",
+  "kitCommit": "3f492a1f0c6ac4b31796c2bf4f4d4f810d4a8461",
+  "files": [
+    {
+      "path": ".claude/agents/reviewer.md",
+      "sha256": "0c9631cc62877e95dba42db5e62f677e669489d38f4fbe1efaff08aaea9d87fa"
+    },
+    {
+      "path": ".claude/rules/architecture-arc-001.md",
+      "sha256": "269150fd3a87cb489afbea9649ae712e19f43cd0e703eba809a0d21c8a371248"
+    },
+    {
+      "path": ".claude/rules/architecture-arc-005.md",
+      "sha256": "8799bf52c313ab33efd834fe8172bb4c7da5db2d6640ce21e89e3432dbff888b"
+    },
+    {
+      "path": ".claude/rules/architecture-arc-007.md",
+      "sha256": "ee54d92dc9ca9a77e14ca4f04ae825aa9f6c06d50101ccc04cd9010725d1b9a2"
+    },
+    {
+      "path": ".claude/rules/architecture.md",
+      "sha256": "c6ffd63d2a66ae35a9f445882d07e9a4bfa08702ffeb3d9a9f70cde65b066cac"
+    },
+    {
+      "path": ".claude/rules/code-style-sty-001.md",
+      "sha256": "f1d7d8bbcfc860d70a3865e87902354ead89037728a98da20b775d53a48ee31d"
+    },
+    {
+      "path": ".claude/rules/code-style-sty-002.md",
+      "sha256": "e7617d3cc3c97d4bd32b3463bd733c7c3146eef4f123bf34709ff8eef29ca1e3"
+    },
+    {
+      "path": ".claude/rules/code-style-sty-003.md",
+      "sha256": "1117908e6517e06f55f1dedc4bd7f15ac7a3754c41b4b12b70daa9158b9de2ec"
+    },
+    {
+      "path": ".claude/rules/code-style-sty-006.md",
+      "sha256": "646530790a532227828f7f2ea349414bd3d582caf6900c8273acb51307828fa2"
+    },
+    {
+      "path": ".claude/rules/communication.md",
+      "sha256": "a76e36e754135649bb22dde823f7dae1a46e7f40cbff37e23c45746d5ad5e0f0"
+    },
+    {
+      "path": ".claude/rules/definition-of-done.md",
+      "sha256": "fef8f2e01cc928dc7bc112a3644d2774994c40bf1c9877f625015e28029088c9"
+    },
+    {
+      "path": ".claude/rules/git.md",
+      "sha256": "ffec65368445d713f421666b4875b0333681ac1509fb5bfadcc0244482a1ccb9"
+    },
+    {
+      "path": ".claude/rules/security-sec-004.md",
+      "sha256": "ce4f513b92d03804f8c0d25bcd86ebb4e4bd9b0de0ccb9c7c395bc2f35a65fe4"
+    },
+    {
+      "path": ".claude/rules/security-sec-005.md",
+      "sha256": "56ff147cd7a150085604b4270fadcd120d6593d671e7b30df874cde9b22c8674"
+    },
+    {
+      "path": ".claude/rules/security.md",
+      "sha256": "f95a3e9990f8f36da6900fe71fb4ccea509193d0faf696e897a0382a549906f7"
+    },
+    {
+      "path": ".claude/rules/supply-chain-sup-001.md",
+      "sha256": "adee25ba11e68592f47628319c25e164d84539f8b120fd7c593e902cdcf08af1"
+    },
+    {
+      "path": ".claude/rules/supply-chain-sup-005.md",
+      "sha256": "4aae3b4e6d35eaa3222171a72ad12bfe36f81436a80fd6e7803661f586e1fd6b"
+    },
+    {
+      "path": ".claude/rules/supply-chain-sup-006.md",
+      "sha256": "121786509cb807e2395bc19c54dbcb302a991d7db66f74d0a19827506c315750"
+    },
+    {
+      "path": ".claude/rules/supply-chain-sup-007.md",
+      "sha256": "2c034a8a9cf02b7a2afac86620d5dde1c904a053c3c476518e6eb8d879752c7e"
+    },
+    {
+      "path": ".claude/rules/testing-tst-003.md",
+      "sha256": "295db286b00f8028cdd4a773206137f7b33543d8ed633191baff8ec4fdf600d0"
+    },
+    {
+      "path": ".claude/rules/testing-tst-004.md",
+      "sha256": "5300f888d8fc59952c696bf086dc3aa92f28674a8750e5cf20ab81ae663a3af2"
+    },
+    {
+      "path": ".claude/rules/testing-tst-005.md",
+      "sha256": "1818ebab6f19079f28da4f8de3a0e2debe085bafffb9d10896790937568a819a"
+    },
+    {
+      "path": ".claude/rules/testing-tst-006.md",
+      "sha256": "ee02f6b4ba102b8ab681ab8f80a8404e7454d6489a29881ec9af4c5182b431ee"
+    },
+    {
+      "path": ".claude/rules/testing.md",
+      "sha256": "a9d3a68efa235e24d32c421c0e375f0b22f943bc457b57b5a4402f7667ffd105"
+    },
+    {
+      "path": ".claude/settings.json",
+      "sha256": "83d1e0bdb979d5621b2a420624be052b0eeb1477a42d31e478602718bba04b6a"
+    },
+    {
+      "path": ".claude/skills/address-review/SKILL.md",
+      "sha256": "df89f877cd9abca22c9f857eeba7045f060f7ce101345cb8fcd06a406858fcf4"
+    },
+    {
+      "path": ".claude/skills/finish-work/SKILL.md",
+      "sha256": "a4d7561d9ec4b797d3666819f3bc62c92c0a61da2dc2b5a2068affd1c4aa1c53"
+    },
+    {
+      "path": ".claude/skills/plan-checklist/SKILL.md",
+      "sha256": "1e15c8515903cb9f92bbfb4940abecc2f2631b5c40c6a6ab44f5db8b34b30128"
+    },
+    {
+      "path": ".claude/skills/start-work/SKILL.md",
+      "sha256": "0893be91ac42ae99b9207ba5b50d6806a7b9722f627943b10f243fe817328e6f"
+    },
+    {
+      "path": ".claude/skills/tdd-cycle/SKILL.md",
+      "sha256": "8df5710d0c163e4eba63ef3b7d43c501db40f461a44e0746dea94884030087ca"
+    },
+    {
+      "path": ".claude/skills/write-adr/SKILL.md",
+      "sha256": "a5c7f69693c05f4253201e558a24c126c43e05445438d0e2611ae8b6b7c3e3d6"
+    },
+    {
+      "path": ".editorconfig",
+      "sha256": "0b61faa37ca62b74633b2ab772f95030ca65f9302b0f8a530cb7d5ff948fb6fd"
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "7e6ed8d3e37793c07e5fff1c7daffa0a09b8b1bd79df1443f8d16042ab9b26c3"
+    },
+    {
+      "path": ".githooks/commit-msg",
+      "sha256": "e64f2da4c808232249a0f0da60fb14b8e50ca0649c4a07d718edfeb9fe4bff32"
+    },
+    {
+      "path": ".githooks/commit-msg.ps1",
+      "sha256": "ef86a9b1173d454fbf2b81c6f80b72109b6d39dadd6bb6983b530895ae81c088"
+    },
+    {
+      "path": ".github/instructions/architecture-arc-001.instructions.md",
+      "sha256": "db2a28645aa0a0a2d4ecf341500fe17c9340eea7f3b4e35d3a8f1f8f60c3f6c8"
+    },
+    {
+      "path": ".github/instructions/architecture-arc-005.instructions.md",
+      "sha256": "b9ccb1d7e73a7d3e8e1ac6eaacf62ea5d0f299b0a02367898032b143d5c02125"
+    },
+    {
+      "path": ".github/instructions/architecture-arc-007.instructions.md",
+      "sha256": "d70405812f45f46fb60c6f06f0a3e193b1267cc369562f7d432def395e428fa9"
+    },
+    {
+      "path": ".github/instructions/architecture.instructions.md",
+      "sha256": "64aa9768e086b8d7f787d7ea8a7da850fddae16c8645b77b8c4967e99e1d3f11"
+    },
+    {
+      "path": ".github/instructions/code-style-sty-001.instructions.md",
+      "sha256": "4abe75d241090a8f8d2b111c9a26822bc84ed0532ee02c1494d0a3a2e99ef90e"
+    },
+    {
+      "path": ".github/instructions/code-style-sty-002.instructions.md",
+      "sha256": "48fa64f799fe2dcb1914ac20c380b1541d7bd411abd7fee8dca729493305ec25"
+    },
+    {
+      "path": ".github/instructions/code-style-sty-003.instructions.md",
+      "sha256": "4bdf9885b45fc2a25495f6a11c497ecce802f0fc6fb8e68c25696c6462364000"
+    },
+    {
+      "path": ".github/instructions/code-style-sty-006.instructions.md",
+      "sha256": "611a618c73ee5bcbdead9000ee120f7e82bfe060fde6f18af6402e45ec649f66"
+    },
+    {
+      "path": ".github/instructions/communication.instructions.md",
+      "sha256": "52c56f1e296b1a6552099cb243d625bc8ea51e4690c20aeee2678c3b27e548b1"
+    },
+    {
+      "path": ".github/instructions/definition-of-done.instructions.md",
+      "sha256": "0d177178aa8d1e234097789427c508f9d657c7db9f7484079c9729da7d39ecd5"
+    },
+    {
+      "path": ".github/instructions/git.instructions.md",
+      "sha256": "09ffa1967e6bb8deb72c343fa3fdb1dd4fd368cb52b3b23f9a89e92eef0501a6"
+    },
+    {
+      "path": ".github/instructions/security-sec-004.instructions.md",
+      "sha256": "a0c38ecca8dd41617919369cd23c998020fbd8c5032b89315560ca8f4f6ecdf5"
+    },
+    {
+      "path": ".github/instructions/security-sec-005.instructions.md",
+      "sha256": "2ead6b319cf581e41c887b4742d94dd093deac053a193897226a0761aac96202"
+    },
+    {
+      "path": ".github/instructions/security.instructions.md",
+      "sha256": "0b407b53ffe497024258f781a97f25daa34fe71222361364b6f6ee93ad5c3360"
+    },
+    {
+      "path": ".github/instructions/supply-chain-sup-001.instructions.md",
+      "sha256": "277a3afa1b8cffcf8536c34da49273fbdca58aab38e9ffe70dbea59804b81143"
+    },
+    {
+      "path": ".github/instructions/supply-chain-sup-005.instructions.md",
+      "sha256": "90eaedfb8db2b555b8d50732bb4cf5201059633fa725bd33b2e90e53ee5908db"
+    },
+    {
+      "path": ".github/instructions/supply-chain-sup-006.instructions.md",
+      "sha256": "932257927c621e283548da75ba6f05f831df8664e0969c2a6bf2ed31d0e9c673"
+    },
+    {
+      "path": ".github/instructions/supply-chain-sup-007.instructions.md",
+      "sha256": "5e5bbe8433034790997434d7e3ac95febdc11d3b2442a590f084b3401922bc59"
+    },
+    {
+      "path": ".github/instructions/testing-tst-003.instructions.md",
+      "sha256": "357ad74208546e629dfbf79f90b75b093bdda762852d6d79828c12afdd9ab667"
+    },
+    {
+      "path": ".github/instructions/testing-tst-004.instructions.md",
+      "sha256": "1ad491c7a266d34f803b2463c58349a221982b38f2c1be9a07fcd25552f2c103"
+    },
+    {
+      "path": ".github/instructions/testing-tst-005.instructions.md",
+      "sha256": "cc8a5cb187752c67fbc1ca08834b9279b7b415869da4bdf04ee7ae02faa043c5"
+    },
+    {
+      "path": ".github/instructions/testing-tst-006.instructions.md",
+      "sha256": "02c49b99f16ea5eca6bbd450dbd8de247e3c1c5411c44d9415c89d316f1f100e"
+    },
+    {
+      "path": ".github/instructions/testing.instructions.md",
+      "sha256": "93cf0baec9ce094cdf92aa76d0758c3f1ebd09676e9d273f3be188b2c12ff614"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "sha256": "f04340684cf1b207f101443b14424e9113eb52b9dc425b0adbda9dcb4ca8e9e8"
+    },
+    {
+      "path": ".github/workflows/app-checks.yml",
+      "sha256": "73eb9f9db091548977c9b0eb94d9b1813291a264ff85d796ada89093c6b5d04c"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "070ecbee55321a9739722f50ffccf539bb0e21d66e0310a90ba659c6589428fd"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "b188da8a3e70a1de97ef5fa3ea7127851daa15fcfbc2effb12796a7889526c78"
+    },
+    {
+      "path": ".kit/tools/Build-AgentRules.ps1",
+      "sha256": "c2b564fd81c610cc62facf5eca3ae844ab13f012f987d90782918512743b27f2"
+    },
+    {
+      "path": ".kit/tools/Initialize-DevMachine.ps1",
+      "sha256": "31729aad6c30389bc1c1f2685a302e10fafa2a82bdaeb979200d768814f82cdc"
+    },
+    {
+      "path": ".kit/tools/KitFrontMatter.psm1",
+      "sha256": "1382ccaeb66f68b74def95cb96956b7ba5f26bce0a3cbf07f00a72aebaeabf0d"
+    },
+    {
+      "path": ".kit/tools/KitReview.psm1",
+      "sha256": "fdcbd3a57a582459da3e872f5fca6916981ba23cabde05488ad29876b2e0bb34"
+    },
+    {
+      "path": ".kit/tools/Test-AdrSections.ps1",
+      "sha256": "1341628cf47ad2ea345711e0ccb87109209e297c38643361dd4dcccb32a9ab8c"
+    },
+    {
+      "path": ".kit/tools/Test-ConventionalTitle.ps1",
+      "sha256": "cbc32c0119abdd9ea9fbc9f454babac5693536bb3ce1a30849decb91750ff8d6"
+    },
+    {
+      "path": ".kit/tools/Test-CoverageGate.ps1",
+      "sha256": "25a17c7ca7576db1d462f46f535f58c9f726789d6f12d2b49af7bcc51b6cf2c6"
+    },
+    {
+      "path": ".kit/tools/Test-DeprecatedPackages.ps1",
+      "sha256": "5b2c9ad81eda728ab7578869f7080d070a733e642b40d09adcab53b1ff17184f"
+    },
+    {
+      "path": ".kit/tools/Test-RedGreenOrder.ps1",
+      "sha256": "6ac1552c0cbe9195b1bde62f6a49d81c26556d36142cac6038c01aa4c46ec167"
+    },
+    {
+      "path": ".mcp.json",
+      "sha256": "dfe5f9c53ed7738f661e45049dced78bee5156fff784a97fbc78d9d161b9f698"
+    },
+    {
+      "path": ".vscode/mcp.json",
+      "sha256": "b08bb21e4113556b7ace83fc671f41397164cc9ef8b7ce468478a7914c76b18f"
+    },
+    {
+      "path": ".vscode/settings.json",
+      "sha256": "7eb8ac727c09c90ad66c6b60b8513faf637fb2b4baae14dc78a265264b750aa7"
+    },
+    {
+      "path": "AGENTS.md",
+      "block": "kit",
+      "sha256": "7e05aa8fd24d01a125003b92f2101485566e73de5a23f32e7731d352e9c8e1b1"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "71cd6504149324064fb56ac831ee5ac934603926913bb2b220b8626e7bb16b3a"
+    },
+    {
+      "path": "Directory.Build.props",
+      "sha256": "96fbd457a1a54e2ab781b392b357c3681b5e3d85682a92168c000c78b330e13d"
+    },
+    {
+      "path": "docs/adr/0000-template.md",
+      "sha256": "0967b6f69ff3f6e8f3be58f722f99b9906260b7054e10b42bd59ddb0a93869e4"
+    },
+    {
+      "path": "docs/standards/architecture.md",
+      "sha256": "b5d8165dad08d43069711e97d5e3bdfa94c309adb2f5a0041f883f48239ab260"
+    },
+    {
+      "path": "docs/standards/code-style.md",
+      "sha256": "2b1d07c39e450f862bde59726775d6230d973c840a18a977a1d2d87eba6be3fb"
+    },
+    {
+      "path": "docs/standards/communication.md",
+      "sha256": "71d8a8c02baece5d40b58e15f4dd1534cf416c49c78f3f881b573f19d183382e"
+    },
+    {
+      "path": "docs/standards/definition-of-done.md",
+      "sha256": "c62bc7c8819fc364d7b1491478e67312d3063ee654231a4fe12190aa2ca73625"
+    },
+    {
+      "path": "docs/standards/git.md",
+      "sha256": "ddc628398aa64a0565fa645450198a869154f11f2046d9acf2cfede86c1a5b1d"
+    },
+    {
+      "path": "docs/standards/security.md",
+      "sha256": "e8db5dbbc0f202c3569fd579e8060c24c384a0da265fafc1cf485b393c7e72ff"
+    },
+    {
+      "path": "docs/standards/supply-chain.md",
+      "sha256": "cb635b0239acdbc565f0c956efbaed60aa6eb800afeff82a05951a2231442426"
+    },
+    {
+      "path": "docs/standards/testing.md",
+      "sha256": "389233cedfda2f82f217877f57772061318746d38efd793651b93eed9e08076b"
+    },
+    {
+      "path": "global.json",
+      "sha256": "ad89298e54ffec382ff8be6482062a4842500d7a524e87f63e81e35a1fe7119c"
+    },
+    {
+      "path": "nuget.config",
+      "sha256": "026bf04a2629e2f996617bb783f22a75a8b50849d7db192a6e7101e57a8a24e2"
+    },
+    {
+      "path": "tests/Directory.Build.props",
+      "sha256": "24c423f9acebc24bc0cd9e5553787ff3ee6ba8c80918c7657bda7ccc65a9db40"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "block": "kit",
+      "sha256": "37e3a1aa7296701a744011ec8428bc95214edd458b5ead88c647c55f19fd6830"
+    }
+  ]
+}

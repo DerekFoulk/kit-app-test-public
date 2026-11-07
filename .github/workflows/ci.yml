@@ -1,0 +1,21 @@
+# KitAppTestPublic's .NET gates, from dotnet-agent-kit's shared workflow. The kit is pinned to the commit its
+# release tag points to (ADR-0031); the sync job moves the pin with each kit release.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  dotnet:
+    uses: DerekFoulk/dotnet-agent-kit/.github/workflows/dotnet-ci.reusable.yml@3f492a1f0c6ac4b31796c2bf4f4d4f810d4a8461 # unreleased
+    with:
+      solution: KitAppTestPublic.slnx
